@@ -1,4 +1,7 @@
-### Hi there 👋
+# Matteo Sulejmani
+---
+I'm a self taught software developer trying new things and exploring the workd of
+computer science. 
 
 <!--
 **Matt-Sulejmani/Matt-Sulejmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
