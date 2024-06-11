@@ -10,7 +10,7 @@ Engine and recently working on my own programming language have been the project
 
 ---
 <br>
-- 💬 Ask me about **Python, Web Dev (HTML, CSS, JS)**
+- 💬 Ask me about **Python, Web Dev (HTML, Tailwind, React.JS )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
